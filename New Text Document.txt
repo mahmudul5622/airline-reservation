@@ -1,0 +1,4 @@
+customer                          
+mahmudul5622@gmail.com 123    
+shamim@gmail.com  123
+farid@gmail.com   123
